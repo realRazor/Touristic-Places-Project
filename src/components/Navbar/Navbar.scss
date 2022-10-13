@@ -30,6 +30,7 @@
 @include media-sm{
     .navbar{
         flex-direction: row;
+        
         a{
             padding: 1.3rem;
             &:last-child{

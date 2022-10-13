@@ -9,6 +9,7 @@ const Navbar = () => {
             <a href='#blog'>Blog</a>
             <a href='#vlog'>Vlog</a>
             <a href='#contact'>Contact</a>
+            
         </div>
     )
 }
